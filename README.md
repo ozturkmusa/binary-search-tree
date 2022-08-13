@@ -1,10 +1,10 @@
 # binary-search-tree
 
 
-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını:
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamaları:
 
-İlk eleman olan 7 root olarak seçilir.
-Büyük sayılar sağına küçük sayılar soluna yazılarak ağaç oluşturulur.
+7 root olarak seçilir.
+Büyük sayılar sağına, küçük sayılar soluna yazılır.
 
                    7  
                  /
